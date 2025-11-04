@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ani   
 ###        **_...and I'm glad to see you on my profile_** 😊
 
-### Who I Am? 🤔
+### 🤔 Who I Am?
 - second-year bachelor's student at the RANEPA 
 - Institute of Management, Faculty of Finance
 
@@ -9,7 +9,7 @@
 - **Business analytics** → data collection, analysis, and visualization for decision-making
 - **Management and strategy** → how business processes work and how to optimize them
 - **Programming** → Python 🐍, HTML
-- **Foreign Languages** → English(B2), Spanish(A1)
+- **Foreign Languages** → English (B2), Spanish (A1)
   
 ### 📂 My projects:
 - [azargaryan-ranepa-test] (✅) - university assignments with math modules
