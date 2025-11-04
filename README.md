@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ani   
-###        **_...and I'm glad to see you on my profile_** 😊
+###        **_and I'm glad to see you on my profile_** 😊
 _____________________________________________________________
 
 ### 🤔 Who I Am?
@@ -17,10 +17,10 @@ _____________________________________________________________
 - [hello_git](https://github.com/AniZargaryan/hello_git) ✅ — project ideas for Python
 - [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions
 - [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API
-- []() ✅ | **Python** —
+- [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** —
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) —
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) —
 
 ### 📫 How to reach me:
-» 📧 Email: anizargaryan2006@gmail.com
-» 📧 GitHub: [Ani Zargaryan](https://github.com/AniZargaryan)
+- 📧 Email: anizargaryan2006@gmail.com
+- 📧 GitHub: [Ani Zargaryan](https://github.com/AniZargaryan)
