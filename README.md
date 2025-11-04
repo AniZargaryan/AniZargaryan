@@ -9,7 +9,7 @@ _____________________________________________________________
 ### 🌱 My skills and what I’m currently learning:
 - **Business analytics** → data collection, analysis, and visualization for decision-making
 - **Management and strategy** → how business processes work and how to optimize them
-- **Programming** → Python 🐍, HTML
+- **Programming** → Python 🐍, HTTP
 - **Foreign Languages** → English (B2), Spanish (A1)
   
 ### 📂 My repositories and projects:
