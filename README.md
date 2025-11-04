@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Ani   
-###        **_...and I'm glad to see you on my profile_** 😊
+##        **_...and I'm glad to see you on my profile_** 😊
+
+<img width="500" height="500" alt="фото линия" src="https://github.com/user-attachments/assets/0a8f5afd-c8e6-4d21-ba60-9d90b8b1a6f0" />
 
 ### 🤔 Who I Am?
 - second-year bachelor's student at the RANEPA 
