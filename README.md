@@ -13,11 +13,11 @@ _____________________________________________________________
 - **Foreign Languages** → English (B2), Spanish (A1)
   
 ### 📂 My projects:
-- [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ | **Python** — math modules
-- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ — project ideas for Python
-- [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions
-- [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API
-- [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** —
+- [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ | **Python** — math modules.
+- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ — project ideas for Python.
+- [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions.
+- [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API.
+- [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** — the project investigates the phenomenon in Wikipedia that any path along the first links in articles leads to the article “Philosophy” and displays the sequence of these articles.
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) —
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) —
 
