@@ -14,7 +14,7 @@ _____________________________________________________________
   
 ### 📂 My projects:
 - [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ - math modules
-- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ - ideas for Python projects
+- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ - project ideas for Python
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) -
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
 
