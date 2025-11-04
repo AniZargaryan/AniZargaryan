@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Ani   
+### Hi there 👋 I'm Ani   
 ###        **_...and I'm glad to see you on my profile_** 😊
 _____________________________________________________________
+[https://img.shields.io/badge/hello!]
 
 ### 🤔 Who I Am?
 - second-year bachelor's student at the RANEPA 
