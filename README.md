@@ -1,8 +1,17 @@
-## Hi there 👋 I'm Ani
-       
-###      **_...and I'm glad to see you on my profile_** 😊
+## Hi there 👋 I'm Ani   
+###        **_...and I'm glad to see you on my profile_** 😊
+
+### 🌱 I’m currently learning...
+- **Business analytics** → data collection, analysis, and visualization for decision-making
+- **Management and strategy** → how business processes work and how to optimize them
+- **Programming** → Python 🐍, HTML
+- **Foreign Languages** → English, Spanish
 
 
+
+### 📂 I’m currently working on ...
+- []
+- [ссылка на репозиторий с кратким описанием] 🔭 I’m currently working on ...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
