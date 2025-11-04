@@ -3,8 +3,8 @@
 _____________________________________________________________
 
 ### 🤔 Who I Am?
-- second-year bachelor's student at the RANEPA 
-- Institute of Management, Faculty of Finance
+- second-year bachelor's student at the **RANEPA** 
+- Institute of **Management**, Faculty of **Finance**
 
 ### 🌱 I’m currently learning...
 - **Business analytics** → data collection, analysis, and visualization for decision-making
