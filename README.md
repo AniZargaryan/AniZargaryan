@@ -12,7 +12,8 @@
 - **Foreign Languages** → English (B2), Spanish (A1)
   
 ### 📂 My projects:
-- [azargaryan-ranepa-test] (✅) - university assignments with math modules
+- [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ - math modules
+- []() ✅ - 
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) -
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
 
