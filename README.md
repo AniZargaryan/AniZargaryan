@@ -12,8 +12,9 @@ _____________________________________________________________
 - **Programming** → Python 🐍, HTML
 - **Foreign Languages** → English (B2), Spanish (A1)
   
-### 📂 My projects:
-- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ — project ideas for Python.
+### 📂 My repositories and projects:
+- [hello_git](https://github.com/AniZargaryan/hello_git) — project ideas for Python.
+
 - [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ | **Python** — math modules.
 - [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions.
 - [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API.
