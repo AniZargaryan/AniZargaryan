@@ -18,5 +18,5 @@
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
 
 - 📫 How to reach me:
-                    📧 Email: [anizargaryan2006@gmail.com]
-                    📧 GitHub: []
+  📧 Email: anizargaryan2006@gmail.com
+  📧 GitHub: [Ani Zargaryan](https://github.com/AniZargaryan)
