@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ani   
+## Hi there 👋 I'm Ani   
 ###        **_and I'm glad to see you on my profile_** 😊
 _____________________________________________________________
 
@@ -18,8 +18,8 @@ _____________________________________________________________
 - [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions.
 - [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API.
 - [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** — the project investigates the phenomenon in Wikipedia that any path along the first links in articles leads to the article “Philosophy” and displays the sequence of these articles.
-- [ссылка на репозиторий с кратким описанием проекта 1] (⏳) —
-- [ссылка на репозиторий с кратким описанием проекта 2] (⏳) —
+- [in process...] (⏳) — a Telegram bot that selects a movie based on your mood with smart preference memory mode.
+- [in process...] (⏳) — 
 
 ### 📫 How to reach me:
 - 📧 Email: anizargaryan2006@gmail.com
