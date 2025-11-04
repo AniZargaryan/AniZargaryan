@@ -13,13 +13,13 @@ _____________________________________________________________
 - **Foreign Languages** → English (B2), Spanish (A1)
   
 ### 📂 My projects:
-- [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ | **Python** - math modules
-- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ - project ideas for Python
-- [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** - a program for symbolic computation of derivatives of mathematical expressions
-- [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** - automated scenario for working with users via the Petstore API
-- []() ✅ | **Python** -
-- [ссылка на репозиторий с кратким описанием проекта 1] (⏳) -
-- [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
+- [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ | **Python** — math modules
+- [hello_git](https://github.com/AniZargaryan/hello_git) ✅ — project ideas for Python
+- [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions
+- [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API
+- []() ✅ | **Python** —
+- [ссылка на репозиторий с кратким описанием проекта 1] (⏳) —
+- [ссылка на репозиторий с кратким описанием проекта 2] (⏳) —
 
 ### 📫 How to reach me:
 » 📧 Email: anizargaryan2006@gmail.com
