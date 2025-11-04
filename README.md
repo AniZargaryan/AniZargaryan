@@ -13,8 +13,8 @@
 
 
 ### 📂 My projects: I’m currently working on ...
-- [azargaryan-ranepa-test] - university assignments with math modules 
-- [ссылка на репозиторий с кратким описанием] - 
+- [azargaryan-ranepa-test] (done!) - university assignments with math modules <rrmfrfr>
+- [ссылка на репозиторий с кратким описанием] (in process...) - 
 
 
 - 🔭 I’m currently working on ...
