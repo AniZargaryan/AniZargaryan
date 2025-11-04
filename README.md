@@ -16,6 +16,8 @@ _____________________________________________________________
 - [azargaryan-ranepa-test](https://github.com/AniZargaryan/azargaryan-ranepa-test) ✅ - math modules
 - [hello_git](https://github.com/AniZargaryan/hello_git) ✅ - project ideas for Python
 - [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ - a program for symbolic computation of derivatives of mathematical expressions
+- [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ - automated scenario for working with users via the Petstore API
+- []() ✅ -
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) -
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
 
