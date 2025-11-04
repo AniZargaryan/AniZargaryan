@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Ani   
 ###        **_...and I'm glad to see you on my profile_** 😊
 _____________________________________________________________
-[https://img.shields.io/badge/hello!]
 
 ### 🤔 Who I Am?
 - second-year bachelor's student at the RANEPA 
@@ -19,6 +18,6 @@ _____________________________________________________________
 - [ссылка на репозиторий с кратким описанием проекта 1] (⏳) -
 - [ссылка на репозиторий с кратким описанием проекта 2] (⏳) -
 
-- 📫 How to reach me:
-  📧 Email: anizargaryan2006@gmail.com
-  📧 GitHub: [Ani Zargaryan](https://github.com/AniZargaryan)
+### 📫 How to reach me:
+» 📧 Email: anizargaryan2006@gmail.com
+» 📧 GitHub: [Ani Zargaryan](https://github.com/AniZargaryan)
