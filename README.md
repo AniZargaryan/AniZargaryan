@@ -19,7 +19,7 @@ _____________________________________________________________
 - [calculus_tool](https://github.com/AniZargaryan/calculus_tool) ✅ | **Python** — a program for symbolic computation of derivatives of mathematical expressions.
 - [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API.
 - [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** — the project investigates the phenomenon in Wikipedia that any path along the first links in articles leads to the article “Philosophy” and displays the sequence of these articles.
-- _in process..._ ⏳ | **Python** — a Telegram bot that selects a movie based on your mood with smart preference memory mode.
+- [as-the-mood-says](https://github.com/AniZargaryan/as-the-mood-says) ✅ | **Python** — a console-based tool that helps you choose a movie depending on your current mood (and optionally by genre).
 - _in process..._ ⏳ | **Python** — 
 
 ### 📫 How to reach me:
