@@ -20,7 +20,7 @@ _____________________________________________________________
 - [project_petstore](https://github.com/AniZargaryan/project_petstore) ✅ | **Python** — automated scenario for working with users via the Petstore API.
 - [project_roads_to_phlosophy](https://github.com/AniZargaryan/project_roads_to_phlosophy) ✅ | **Python** — the project investigates the phenomenon in Wikipedia that any path along the first links in articles leads to the article “Philosophy” and displays the sequence of these articles.
 - [as-the-mood-says](https://github.com/AniZargaryan/as-the-mood-says) ✅ | **Python** — a console-based tool that helps you choose a movie depending on your current mood (and optionally by genre).
-- _in process..._ ⏳ | **Python** — 
+- [parsing-political-parties]() ✅ | **HTML** — 
 
 ### 📫 How to reach me:
 - 📧 Email: anizargaryan2006@gmail.com
